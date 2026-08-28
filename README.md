@@ -4,7 +4,7 @@
 
 [🌐 **Live Website**](https://firasmallek.vercel.app/)
 
-![Portfolio Preview](./assets/preview.png)
+<img width="1470" height="881" alt="Image" src="https://github.com/user-attachments/assets/a76492b2-be02-4afe-8b20-9e939454e8a2" />
 
 ---
 
