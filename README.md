@@ -1,6 +1,6 @@
 # ✦ Firas Mallek — Portfolio
 
-### An interactive portfolio built around motion, 3D, and immersive web experiences.
+### An interactive portfolio built around motion, 3D, and immersive web experiences.   
 
 [🌐 **Live Website**](https://firasmallek.vercel.app/)
 
